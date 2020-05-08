@@ -10,6 +10,6 @@ setup(
     packages=find_packages(),
     package_data={'': ['*.bin', 'directions/*.bin']},
     install_requires=[
-        'dipy', 'cython', 'spams',
+        'dipy', 'Cython', 'spams',
     ],
 )
