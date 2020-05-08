@@ -8,8 +8,8 @@ setup(
     author_email='alessandro.daducci@univr.it',
     url='https://github.com/daducci/AMICO',
     packages=find_packages(),
-    package_data={'' : ['*.bin', 'directions/*.bin']},
+    package_data={'': ['*.bin', 'directions/*.bin']},
     install_requires=[
-        'dipy',
+        'dipy', 'cython', 'spams',
     ],
 )
