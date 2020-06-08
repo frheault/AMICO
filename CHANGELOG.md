@@ -2,10 +2,10 @@
 # Change Log
 All notable changes to AMICO will be documented in this file.
 
-## [1.2.3] - 2020-05-25
+## [1.2.3] - 2020-06-09
 
 ### Fixed
-- Modify setup.py and fix spams dependency
+- Modify setup.py and fix spams dependencies
 
 ## [1.2.2] - 2020-05-05
 
